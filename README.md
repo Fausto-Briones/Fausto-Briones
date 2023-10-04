@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Fausto-Briones/Fausto-Briones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositorio de proyectos
+## Proyectos
+- Gestor de contenido de los mundiales de fútbol
+- Tienda de juegos en línea
+- Bash shells payloads
+## Acerca de mí
+- Creador de contenido en HTB (Hack The Box)
+- Entrenador del equipo de programación competitiva de Ecuador
+## Contacto
+**Email**: fabrione@espol.edu.ec
